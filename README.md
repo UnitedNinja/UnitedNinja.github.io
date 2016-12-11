@@ -1,3 +1,3 @@
 United Ninja
 
-[United Ninja](assets/images/favicon.png)
+![United Ninja](assets/images/favicon.png)
