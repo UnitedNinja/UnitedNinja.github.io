@@ -1,3 +1,5 @@
 # United Ninja
 
-![United Ninja](assets/images/icon-small.png)
+Welcome to GH Page United Ninja :smile:
+
+This repository aims to collect the data in static from the main site https://unitedninja.id
